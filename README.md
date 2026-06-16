@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dyan Galih!
 
-### Software Engineer • Security Researcher • Digital Creator from Indonesia 🇮🇩
+### Secure Systems Architect | Security Researcher | Secure-by-Design Engineering | DevSecOps | Architecture Governance | AI-Assisted Software Delivery | Conference Speaker | Digital Creator from Indonesia 🇮🇩
 
 I love building things on the internet — from web apps, backend systems, DevSecOps stuff, to exploring application security and pentesting.  
 Most of my time is spent coding, learning new tech, breaking things (ethically 😄), and sharing knowledge with others.
