@@ -21,6 +21,8 @@ Currently enjoying:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Nest](https://img.shields.io/badge/-Nest-339933?style=flat-square&logo=nest&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-339933?style=flat-square&logo=nest&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
